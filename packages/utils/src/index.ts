@@ -1,3 +1,2 @@
 export * from './array';
-
-export * from './array';
+export * as match  from './match';
